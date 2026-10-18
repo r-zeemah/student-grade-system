@@ -1,3 +1,4 @@
+# Student Grade Management System
 def get_average(scores):
     total_score = sum(scores)
     average = total_score / 3
